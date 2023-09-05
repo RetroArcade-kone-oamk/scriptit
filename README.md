@@ -16,4 +16,4 @@ For use in public, it is recommended to use the 'Kiosk'-mode found by pressing '
 'Kiosk'-mode disables most settings, so players can't mess the system up too badly. 
 
 'Kiosk'-mode can be disabled by using the Konami-code (up, up, down, down, left, right, left, right, B, A). When input correctly, emulationstation loading screen
-pops up brifly and the full menu is available again. 
+pops up brifly and both settings menus are available again. 
